@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Build / Distribution ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / Cache ---
+*.log
+.cache/
+*.tmp
+
+# --- Jupyter / Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Audio files (if generated during testing) ---
+*.wav
+*.mp3
+
+# --- Temporary or test outputs ---
+output/
+test_output/
